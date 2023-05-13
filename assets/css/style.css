@@ -46,3 +46,14 @@ body {
 .relogio span.tempo {
   font-size: 10px;
 }
+
+@media(max-width:414px) {
+  .relogio {
+    transform: scale(0.75);
+  }
+
+  .relogio div {
+    transform: scale(0.9);
+  }
+  
+}
