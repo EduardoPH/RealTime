@@ -15,7 +15,7 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para aprender um 
 
 ## Demonstração
 
-https://real-time-dududeev.vercel.app/
+https://real-time-dududev.vercel.app/
 
 ## Instalação
 
