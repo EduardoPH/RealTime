@@ -12,6 +12,7 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para aprender um 
   <img src="./image.png">
 </p>
 
+![image](https://github.com/EduardoPH/RealTime/assets/88357842/d47ae576-2707-45b3-b713-b26638f77ad8)
 
 ## Demonstração
 
